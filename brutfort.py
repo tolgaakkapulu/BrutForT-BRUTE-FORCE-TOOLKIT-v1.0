@@ -738,10 +738,9 @@ def pyrit():
 
 ####################### Crunch ############################
 def crunch():
-	mods_title = """	** Mods  **"""
 	crunch_processes = """
 		%s  Sadece harf ile sözlük oluşturma		     : (Ör:a-z)
-		%s  Belirtilen karakterler ile sözlük oluşturma	     : (Ör:Ab123.!@, vb.)
+		%s  Belirtilen karakterler ile sözlük oluşturma     : (Ör:Ab123.!@, vb.)
 		%s  Karakter takımlarını kullanarak sözlük oluşturma: (Ör:hex-lower,symbols14...)
 		%s  Özel sözlük oluşturma			     : (Ör:'@', ',', '%%', '^')
 
