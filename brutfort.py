@@ -229,7 +229,7 @@ def findmyhash():
 	elif findmyhash_process == 99 :
 		os.system("python brutfort.py")
 	else : 
-		print color.RED + "Yanlış seçim yaptınız. Lütfen kontrol edip tekrar deneyiniz." + color.END
+		print color.RED + "\nYanlış seçim yaptınız. Lütfen kontrol edip tekrar deneyiniz." + color.END
 		time.sleep(3)
 		os.system("python brutfort.py")
 ####################### Findmyhash ############################
@@ -350,7 +350,7 @@ def medusa():
 
 
 	else : 
-		print color.RED + "Yanlış seçim yaptınız. Lütfen kontrol edip tekrar deneyiniz." + color.END
+		print color.RED + "\nYanlış seçim yaptınız. Lütfen kontrol edip tekrar deneyiniz." + color.END
 		time.sleep(3)
 		os.system("python brutfort.py")
 
@@ -480,7 +480,7 @@ def hydra():
 
 
 	else : 
-		print color.RED + "Yanlış seçim yaptınız. Lütfen kontrol edip tekrar deneyiniz." + color.END
+		print color.RED + "\nYanlış seçim yaptınız. Lütfen kontrol edip tekrar deneyiniz." + color.END
 		time.sleep(3)
 		os.system("python brutfort.py")
 
@@ -581,7 +581,7 @@ def ncrack():
 
 
 	else : 
-		print color.RED + "Yanlış seçim yaptınız. Lütfen kontrol edip tekrar deneyiniz." + color.END
+		print color.RED + "\nYanlış seçim yaptınız. Lütfen kontrol edip tekrar deneyiniz." + color.END
 		time.sleep(3)
 		os.system("python brutfort.py")
 
