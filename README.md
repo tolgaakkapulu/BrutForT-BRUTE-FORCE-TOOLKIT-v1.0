@@ -6,11 +6,16 @@ Password Attack, Pass-the-hash bulunduğu gibi wordlist oluşturmak için Crunch
 
 #BrutForT içerisindeki araçlar
 
-(1) HASH IDENTIFIER&emsp;&nbsp;&nbsp;&nbsp;(6)&nbsp;&nbsp;&nbsp;MEDUSA<br>
-(2) FINDMYHASH&emsp;&emsp;&emsp;&nbsp;(7)&nbsp;&nbsp; HYDRA<br>
-(3) JOHN&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(8)&nbsp;&nbsp; NCRACK	<br>
-(4) TRUECRACK&emsp;&emsp;&emsp;&emsp;&nbsp;(9)&nbsp;&nbsp; PYRIT<br>
-(5) PTH-WINEXE&emsp;&emsp;&emsp;&emsp;(10) CRUNCH
+(1) HASH IDENTIFIER<br>
+(2) FINDMYHASH<br>
+(3) JOHN<br>
+(4) TRUECRACK<br>
+(5) PTH-WINEXE<br>
+(6) MEDUSA<br>
+(7) HYDRA<br>
+(8) NCRACK<br>
+(9) PYRIT<br>
+(10) CRUNCH<br>
 
 #BrutForT - BRUTE FORCE TOOLKIT v1.0
 <img src="http://www.tolgaakkapulu.com/images/brutfort.png" width="75%">
