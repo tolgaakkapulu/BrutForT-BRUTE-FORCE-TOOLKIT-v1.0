@@ -18,7 +18,7 @@ Password Attack, Pass-the-hash bulunduğu gibi wordlist oluşturmak için Crunch
 (10) CRUNCH<br>
 
 #BrutForT - BRUTE FORCE TOOLKIT v1.0
-<img src="http://www.blog.tolgaakkapulu.com/images/programlama/brutfort.png" width="75%">
+<img src="www.blog.tolgaakkapulu.com/images/programlama/brutfort.png" width="75%">
 <br><br>
 <b>Kurulum</b><br>
 git clone "https://github.com/tolgaakkapulu/BrutForT-BRUTE-FORCE-TOOLKIT-v1.0"<br>
